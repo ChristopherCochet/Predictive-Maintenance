@@ -15,9 +15,9 @@ Using data from Taarifa and the Tanzanian Ministry of Water, we will be trying t
 
 ## Link to Analysis and Python Code (Jupyter Notebook)
 
-* Exploratory data analysis: https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb
-* Model Tuning: https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Optimize%20Model%20Parameters.ipynb
-* Data clean-up, feature engineering and modelling: https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Data%20Clean-up.ipynb
+* ![Exploratory data analysis notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb)
+* ![Model Tuning notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Optimize%20Model%20Parameters.ipynb)
+* ![Data clean-up, feature engineering and modelling](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Data%20Clean-up.ipynb)
 
 ### Prerequisites
 
