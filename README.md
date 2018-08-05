@@ -25,7 +25,7 @@ The code of the project is split into four notebooks: EDA > Data Clean-up & Prep
 
 * [Data clean-up, feature engineering and modelling notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Modelling%20%26%20Prediction.ipynb)
 
-[Water Asset Predictions](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG)
+![Water Asset Predictions](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG)
 
 
 ### Custom Code Dependencies
