@@ -38,9 +38,11 @@ The code of the project is split into four notebooks:
 
 ### Custom Code Dependencies
 
-* water_asset_data: defines the Water_Asset_Data class which is used to manage the train and test set panda dataframes and the cleaning and pre-processing the features 
-* gis_map_viz.py: defines the visualization GIS_Map_Viz helper class to display the location of water pumps in Tanzania (uses the basemap python package)
-* wp_util.py : utility file which defines helper function such as the Cramer's V statistic method for categorical feature correlation analysis
+```
+* *water_asset_data.py* : defines the Water_Asset_Data class which is used to manage the train and test set panda dataframes and the cleaning and pre-processing the features 
+* *gis_map_viz.py* : defines the visualization GIS_Map_Viz helper class to display the location of water pumps in Tanzania (uses the basemap python package)
+* *wp_util.py* : utility file which defines helper function such as the Cramer's V statistic method for categorical feature correlation analysis
+```
 
 ### Python Library Prerequisites
 
