@@ -15,7 +15,9 @@ Using data from Taarifa and the Tanzanian Ministry of Water, we will be trying t
 
 ## Link to Analysis and Python Code (Jupyter Notebook)
 
-The code of the project is split into four notebooks: EDA > Data Clean-up & Preprocessing  > Model Fine-tuning | Modelling & Predictions
+The code of the project is split into four notebooks: 
+
+##### EDA > Data Clean-up & Preprocessing  > Model Fine-tuning | Modelling & Predictions
 
 * [Exploratory data analysis notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb)
 
