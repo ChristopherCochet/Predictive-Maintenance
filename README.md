@@ -2,11 +2,16 @@
 
 ### Background
 
-This series of notebook will focus on a  predictive maintenance problem. The business challenge is brought by www.drivendata.org and the goal is to  predict the operation state (functional, repair needed, complete failure) of water pumps in Tanzania. The water pump data is provided by taarifa.org an organization that provides people the ability to report water and sanitation problems in Africa. Here is a dashboard of the status of water points in Tanzania: http://dashboard.taarifa.org/#/dashboard.</br>
+This series of notebook will focus on a  predictive maintenance problem. The business challenge is brought by www.drivendata.org and the goal is to  predict the operation state (functional, repair needed, not failure) of water pumps in Tanzania. The water pump data is provided by taarifa.org an organization that provides people the ability to report water and sanitation problems in Africa. Here is a dashboard of the status of water points in Tanzania: http://dashboard.taarifa.org/#/dashboard.</br>
 
 ![Water Pump](http://drivendata.materials.s3.amazonaws.com/pumps/pumping.jpg) 
 
 source: Pump image courtesy of flickr user christophercjensen
+
+### Data Set
+
+* [Pump it up intro](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table)
+* [Data Set](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/data/)
 
 
 ### Business Objectives
@@ -28,6 +33,7 @@ The code of the project is split into four notebooks:
 * [Data clean-up, feature engineering and modelling notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Modelling%20%26%20Prediction.ipynb)
 
 ![Water Asset Predictions](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Predictions.PNG)
+
 
 
 ### Custom Code Dependencies
