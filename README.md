@@ -17,13 +17,13 @@ Using data from Taarifa and the Tanzanian Ministry of Water, we will be trying t
 
 The code of the project is split into four notebooks: EDA > Data Clean-up & Preprocessing  > Model Fine-tuning | Modelling & Predictions
 
-* ![Exploratory data analysis notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb)
+* [Exploratory data analysis notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb)
 
-![Data Cleaning & Feature Engineering & Preprocessing](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20EDA.ipynb)
+* [Data Cleaning & Feature Engineering & Preprocessing notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Data%20Clean-up%20and%20Preprocessing.ipynb)
 
-* ![Model Tuning notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Optimize%20Model%20Parameters.ipynb)
+* [Model Tuning notebook](: https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Optimize%20Model%20Parameters.ipynb)
 
-* ![Data clean-up, feature engineering and modelling](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Data%20Clean-up.ipynb)
+* [Data clean-up, feature engineering and modelling notebook](https://github.com/ChristopherCochet/Predictive-Maintenance/blob/master/Pump%20it%20Up%20-%20Modelling%20%26%20Prediction.ipynb)
 
 
 ### Custom Code Dependencies
@@ -43,7 +43,7 @@ Scipy
 Scikit-learn
 Mxnet
 Keras
-```
+
 
 Package             Version  
 ------------------- ---------
@@ -120,7 +120,7 @@ wcwidth             0.1.7
 webencodings        0.5.1    
 wheel               0.31.1   
 wincertstore        0.2
-
+```
 
 ## Author
 
