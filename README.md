@@ -44,7 +44,8 @@ Scikit-learn
 Mxnet
 Keras
 ```
-ackage             Version  
+
+Package             Version  
 ------------------- ---------
 backcall            0.1.0    
 basemap             1.1.0    
